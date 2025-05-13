@@ -25,8 +25,6 @@ A modern, secure, and user-friendly **Android Password Manager App** built using
 
 ---
 
-## 🚀 Screenshots
-![image alt](Image1.jpg)
 
 
 ---
